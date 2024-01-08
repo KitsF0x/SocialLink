@@ -18,7 +18,7 @@ TODO
 ## Goals
 
 -   [✅] Auth system
--   [❌] Profile and personal information management
+-   [✅] Profile and personal information management (NOT TESTED!!!)
 -   [❌] Chat with others
 -   [❌] Posts per profile
 -   [❌] Adding users as friends

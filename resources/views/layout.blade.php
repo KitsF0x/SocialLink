@@ -36,7 +36,7 @@
                     @endguest
                     @auth
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="#">{{ Auth::user()->name }}</a>
+                            <a class="nav-link text-white" href="{{ route('profile.edit') }}">{{ Auth::user()->name }}</a>
                         </li>
                         <li class="nav-item">
                             <form action="{{ route('auth.logout') }}" method="POST">

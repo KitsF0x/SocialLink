@@ -17,7 +17,7 @@ TODO
 
 ## Goals
 
--   [❌] Auth system
+-   [✅] Auth system
 -   [❌] Profile and personal information management
 -   [❌] Chat with others
 -   [❌] Posts per profile
